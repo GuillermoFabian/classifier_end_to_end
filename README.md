@@ -7,7 +7,7 @@ produces a trained Random Forest model and save and store resuils in W&B
 ### Running the full steps
 
   ```bash
-  mlflow run . -P hydra_options="main.execute_steps='random_forest'"
+  mlflow run . 
   ```
  ### For testing purposes 
   ```bash
