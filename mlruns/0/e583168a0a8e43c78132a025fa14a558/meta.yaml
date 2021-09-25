@@ -1,0 +1,15 @@
+artifact_uri: file:///home/guillermo/gfigueroa/Workspace/ml_engineer/ML_pipeline/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/e583168a0a8e43c78132a025fa14a558/artifacts
+end_time: 1632609659214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e583168a0a8e43c78132a025fa14a558
+run_uuid: e583168a0a8e43c78132a025fa14a558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1632609607868
+status: 3
+tags: []
+user_id: guillermo
