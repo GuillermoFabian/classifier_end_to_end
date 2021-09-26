@@ -1,0 +1,1 @@
+{"AUC": 0.9532593880659499, "confusion_matrix": {"_type": "image-file", "path": "media/images/confusion_matrix_0_0d7ec66904d359b0ecc3.png", "sha256": "0d7ec66904d359b0ecc3f53d057e8cb503ca5f4e4dfdde067ec50bb9339303ff", "size": 92124, "format": "png", "width": 1000, "height": 1000}, "_runtime": 16, "_timestamp": 1632612416, "_step": 0, "_wandb": {"runtime": 15}}
